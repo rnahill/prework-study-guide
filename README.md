@@ -2,9 +2,7 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
-This study guide outlines the basics of HTML, CSS, Git, and Javascript. I made this study guide so that I could refer backl to it when I need some help.
+This study guide outlines the basics of HTML, CSS, Git, and Javascript. I made this study guide so that I could refer back to it when I need some help.
 
 
 ## Installation
@@ -13,7 +11,7 @@ N/A
 
 ## Usage
 
-To use this Prework Study Guide, you can review the notes in each section. For suggestions on what to study first, open the Chrome DevTools by pressing Command+Option+I (macOS) or Control+Shift+I (Windows). A console panel should open either below or to the side of the webpage in the browser. There you will see a list of topics we learned from the prework along with a suggestion on which topic to study first.
+To use this Prework Study Guide, you can review my notes for each section. There is a section for HTML, Git, CSS, and Javasript. To get a suggestion on what to study, you can open the console using Shift-Ctrl-I to open the console and on there you will see a recommendation on what to study. Each time you reload the page the option should change.
 
 ## Credits
 
